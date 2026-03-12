@@ -1,6 +1,6 @@
 module github.com/luxfi/address
 
-go 1.26
+go 1.26.1
 
 require (
 	github.com/btcsuite/btcd/btcutil v1.1.6
