@@ -1,4 +1,4 @@
-# LLM.md - Hanzo Address
+# Hanzo Address
 
 ## Overview
 Go module: github.com/luxfi/address
